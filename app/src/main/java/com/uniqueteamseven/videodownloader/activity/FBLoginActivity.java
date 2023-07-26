@@ -125,7 +125,7 @@ public class FBLoginActivity extends AppCompatActivity {
         try {
             if (!Utils.isNullOrEmpty(cookies) && cookies.contains("c_user")) {
                 SharePrefs.getInstance(activity).putString(SharePrefs.FBKEY, key);
-                SharePrefs.getInstance(activity).putBoolean(SharePrefs.ISFBLOGIN, true);
+                SharePrefs.getInstance(activity).putBoolean(SharePrefs.ISFBLOGIN, false);
                 System.out.println("Key - " + key);
                 Intent intent = new Intent();
                 intent.putExtra("result", "result");
