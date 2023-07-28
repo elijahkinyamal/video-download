@@ -14,8 +14,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="start"
-        android:layout_marginStart="15dp"
-        android:layout_marginTop="15dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="25dp"
         android:text="@string/how_to_download"
         android:textColor="@color/black"
         android:id="@+id/tvHowToHeadOne"
@@ -63,9 +63,9 @@
 
     <ImageView
         android:layout_width="250dp"
-        android:layout_height="250dp"
+        android:layout_height="251dp"
         android:layout_gravity="center"
-        android:layout_margin="10dp"
+        android:layout_margin="12dp"
         android:id="@+id/im_howto2"
         />
     </LinearLayout>
@@ -74,8 +74,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="start"
-        android:layout_marginStart="10dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="11dp"
         android:id="@+id/tvHowToHeadTwo"
         android:text="@string/or_download_using_copied_link"
         android:textColor="@color/black"
@@ -105,7 +105,7 @@
         android:layout_width="250dp"
         android:layout_height="250dp"
         android:layout_gravity="center"
-        android:layout_margin="10dp"
+        android:layout_margin="12dp"
         android:id="@+id/im_howto3" />
 
     <TextView
