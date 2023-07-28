@@ -23,10 +23,10 @@
 
                 <ImageView
                     android:id="@+id/imBack"
-                    android:layout_width="50dp"
-                    android:layout_height="50dp"
+                    android:layout_width="58dp"
+                    android:layout_height="60dp"
                     android:layout_centerVertical="true"
-                    android:layout_margin="0dp"
+                    android:layout_margin="70dp"
                     android:padding="5dp"
                     android:src="@drawable/ic_back" />
 
@@ -57,7 +57,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/white"
-                android:elevation="3dp"
+                android:elevation="30dp"
                 app:tabGravity="fill"
                 app:tabIndicatorHeight="0dp"
                 app:tabMode="scrollable"
