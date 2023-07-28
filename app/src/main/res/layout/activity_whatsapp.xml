@@ -34,7 +34,7 @@
                         android:id="@+id/imInfo"
                         android:layout_width="50dp"
                         android:layout_height="50dp"
-                        android:layout_margin="10dp"
+                        android:layout_margin="16dp"
                         android:padding="10dp"
                         android:visibility="gone"
                         android:src="@drawable/ic_about"
@@ -52,7 +52,7 @@
                         android:layout_centerHorizontal="true"
                         android:background="@drawable/rectangle_white"
                         android:layout_marginStart="15dp"
-                        android:layout_marginEnd="15dp"
+                        android:layout_marginEnd="16dp"
                         android:padding="30dp"
                         android:layout_marginTop="80dp">
 
@@ -73,7 +73,7 @@
                             android:layout_marginTop="10dp"
                             android:text="@string/whatsapp_app_name"
                             android:textColor="@color/black"
-                            android:textSize="16sp"
+                            android:textSize="26sp"
                             android:textStyle="bold"
                             android:visibility="visible" />
                     </RelativeLayout>
@@ -88,7 +88,7 @@
                 android:layout_below="@+id/RLTopLayout"
                 android:layout_marginStart="15dp"
                 android:layout_marginTop="-30dp"
-                android:layout_marginEnd="15dp"
+                android:layout_marginEnd="35dp"
                 android:layout_marginBottom="10dp"
                 android:background="@drawable/rectangle_white"
                 android:elevation="3dp"
