@@ -4,9 +4,9 @@
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
-        android:layout_height="150dp"
+        android:layout_height="140dp"
         android:elevation="3dp"
-        app:cardCornerRadius="8dp"
+        app:cardCornerRadius="6dp"
         android:layout_margin="5dp">
     <RelativeLayout
         android:id="@+id/rl_main"
@@ -35,7 +35,7 @@
             android:textColor="@color/black"
             android:layout_centerHorizontal="true"
             android:layout_alignParentBottom="true"
-            android:layout_marginBottom="10dp"/>
+            android:layout_marginBottom="13dp"/>
     </RelativeLayout>
     </androidx.cardview.widget.CardView>
 
