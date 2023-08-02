@@ -19,8 +19,8 @@
                 android:clipToPadding="false"/>
 
             <ImageView
-                android:layout_width="50dp"
-                android:layout_height="50dp"
+                android:layout_width="51dp"
+                android:layout_height="51dp"
                 android:layout_margin="10dp"
                 android:padding="5dp"
                 android:id="@+id/im_close"
