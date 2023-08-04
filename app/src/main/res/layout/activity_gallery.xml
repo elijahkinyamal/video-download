@@ -23,10 +23,10 @@
 
                 <ImageView
                     android:id="@+id/imBack"
-                    android:layout_width="58dp"
-                    android:layout_height="60dp"
+                    android:layout_width="59dp"
+                    android:layout_height="61dp"
                     android:layout_centerVertical="true"
-                    android:layout_margin="70dp"
+                    android:layout_margin="71dp"
                     android:padding="5dp"
                     android:src="@drawable/ic_back" />
 
@@ -38,7 +38,7 @@
                     android:layout_centerVertical="true"
                     android:text="@string/gallery"
                     android:textColor="@color/white"
-                    android:textSize="16sp"
+                    android:textSize="18sp"
                     android:textStyle="bold" />
             </RelativeLayout>
 
@@ -49,19 +49,19 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_below="@+id/RLTopLayout"
-            android:paddingStart="2dp"
-            android:paddingEnd="2dp">
+            android:paddingStart="4dp"
+            android:paddingEnd="4dp">
 
             <com.google.android.material.tabs.TabLayout
                 android:id="@+id/tabs"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/white"
-                android:elevation="30dp"
+                android:elevation="31dp"
                 app:tabGravity="fill"
                 app:tabIndicatorHeight="0dp"
                 app:tabMode="scrollable"
-                app:tabPaddingEnd="0dp"
+                app:tabPaddingEnd="3dp"
                 app:tabPaddingStart="0dp"
                 app:tabRippleColor="@null"
                 app:tabSelectedTextColor="@color/colorAccent"
