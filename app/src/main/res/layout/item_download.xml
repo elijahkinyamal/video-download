@@ -2,8 +2,8 @@
 <layout xmlns:android="http://schemas.android.com/apk/res/android">
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="110dp"
-        android:layout_margin="8dp"
+        android:layout_height="111dp"
+        android:layout_margin="9dp"
         android:id="@+id/RL_Progress"
         android:visibility="gone"
         android:orientation="vertical">
@@ -19,7 +19,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
-            android:padding="12dp"
+            android:padding="13dp"
             android:text="@string/downloading"
             android:textColor="#ffffff" />
 
