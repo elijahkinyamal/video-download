@@ -9,9 +9,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:layout_marginLeft="27dp"
-        android:layout_marginRight="27dp"
-        android:padding="26dp"
+        android:layout_marginLeft="26dp"
+        android:layout_marginRight="26dp"
+        android:padding="27dp"
         android:background="@drawable/rectangle_white"
         android:gravity="center"
         android:orientation="vertical">
@@ -23,13 +23,13 @@
             android:id="@+id/tvGameOverHead"
             android:text="Game Over"
             android:textColor="@color/colorAccent"
-            android:textSize="22sp"
+            android:textSize="23sp"
             android:textStyle="bold" />
 
         <View
             android:layout_width="match_parent"
             android:layout_height="2dp"
-            android:layout_marginTop="11dp"
+            android:layout_marginTop="13dp"
             android:background="@color/grey" />
 
         <TextView
