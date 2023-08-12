@@ -23,7 +23,7 @@
                 <RelativeLayout
                     android:id="@+id/RLTopLayout"
                     android:layout_width="match_parent"
-                    android:layout_height="350dp"
+                    android:layout_height="351dp"
                     android:background="@drawale/rectangle_blue"
                     android:visibility="visible">
 
