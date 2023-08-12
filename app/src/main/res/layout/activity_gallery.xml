@@ -23,10 +23,10 @@
 
                 <ImageView
                     android:id="@+id/imBack"
-                    android:layout_width="59dp"
-                    android:layout_height="61dp"
+                    android:layout_width="58dp"
+                    android:layout_height="60dp"
                     android:layout_centerVertical="true"
-                    android:layout_margin="71dp"
+                    android:layout_margin="70dp"
                     android:padding="5dp"
                     android:src="@drawable/ic_back" />
 
@@ -38,7 +38,7 @@
                     android:layout_centerVertical="true"
                     android:text="@string/gallery"
                     android:textColor="@color/white"
-                    android:textSize="18sp"
+                    android:textSize="19sp"
                     android:textStyle="bold" />
             </RelativeLayout>
 
