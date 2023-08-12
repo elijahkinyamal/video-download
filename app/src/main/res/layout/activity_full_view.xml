@@ -19,8 +19,8 @@
                 android:clipToPadding="false"/>
 
             <ImageView
-                android:layout_width="51dp"
-                android:layout_height="51dp"
+                android:layout_width="52dp"
+                android:layout_height="52dp"
                 android:layout_margin="10dp"
                 android:padding="5dp"
                 android:id="@+id/im_close"
@@ -30,12 +30,12 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
-                android:layout_marginBottom="30dp"
+                android:layout_marginBottom="31dp"
                 android:gravity="top|center"
                 android:orientation="horizontal">
 
                 <RelativeLayout
-                    android:layout_width="80dp"
+                    android:layout_width="81dp"
                     android:layout_height="wrap_content"
                     android:gravity="center"
                     android:layout_gravity="bottom">
