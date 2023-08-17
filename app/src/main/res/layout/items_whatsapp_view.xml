@@ -5,9 +5,9 @@
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:elevation="5dp"
+        android:elevation="7dp"
         app:cardCornerRadius="8dp"
-        android:layout_margin="5dp">
+        android:layout_margin="7dp">
     <RelativeLayout
         android:id="@+id/rl_main"
         android:layout_width="match_parent"
@@ -20,7 +20,7 @@
         <ImageView
             android:id="@+id/pcw"
             android:layout_width="match_parent"
-            android:layout_height="151dp"
+            android:layout_height="152dp"
             android:scaleType="centerCrop" />
         <ImageView
             android:id="@+id/iv_play"
