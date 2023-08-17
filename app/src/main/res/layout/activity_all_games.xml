@@ -21,8 +21,8 @@
 
                 <ImageView
                     android:id="@+id/imBack"
-                    android:layout_width="53dp"
-                    android:layout_height="51dp"
+                    android:layout_width="52dp"
+                    android:layout_height="52dp"
                     android:layout_centerVertical="true"
                     android:layout_margin="2dp"
                     android:padding="5dp"
@@ -35,7 +35,7 @@
                     android:layout_centerVertical="true"
                     android:text="All Games"
                     android:textColor="@color/white"
-                    android:textSize="17sp"
+                    android:textSize="18sp"
                     android:textStyle="bold" />
             </RelativeLayout>
 
