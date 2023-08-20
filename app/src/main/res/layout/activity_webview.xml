@@ -20,8 +20,8 @@
 
                 <ImageView
                     android:id="@+id/imBack"
-                    android:layout_width="51dp"
-                    android:layout_height="51dp"
+                    android:layout_width="52dp"
+                    android:layout_height="52dp"
                     android:layout_centerVertical="true"
                     android:layout_margin="0dp"
                     android:padding="9dp"
