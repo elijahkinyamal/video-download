@@ -19,9 +19,9 @@ hi 7<?xml version="1.0" encoding="utf-8"?>
                 android:clipToPadding="false"/>
 
             <ImageView
-                android:layout_width="51dp"
-                android:layout_height="51dp"
-                android:layout_margin="12dp"
+                android:layout_width="52dp"
+                android:layout_height="52dp"
+                android:layout_margin="13dp"
                 android:padding="6dp"
                 android:id="@+id/im_close"
                 android:src="@drawable/ic_back"/>
