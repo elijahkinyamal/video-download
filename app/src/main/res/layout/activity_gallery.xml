@@ -23,10 +23,10 @@
 
                 <ImageView
                     android:id="@+id/imBack"
-                    android:layout_width="52dp"
-                    android:layout_height="62dp"
+                    android:layout_width="53dp"
+                    android:layout_height="63dp"
                     android:layout_centerVertical="true"
-                    android:layout_margin="71dp"
+                    android:layout_margin="74dp"
                     android:padding="5dp"
                     android:src="@drawable/ic_back" />
 
