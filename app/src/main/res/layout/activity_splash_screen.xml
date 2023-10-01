@@ -10,8 +10,8 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true">
     <ImageView
-        android:layout_width="201dp"
-        android:layout_height="202dp"
+        android:layout_width="202dp"
+        android:layout_height="201dp"
         android:layout_centerHorizontal="true"
         android:scaleType="centerCrop"
         android:id="@+id/logo"
