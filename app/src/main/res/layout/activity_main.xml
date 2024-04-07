@@ -23,7 +23,7 @@
                 <RelativeLayout
                     android:id="@+id/RLTopLayout"
                     android:layout_width="match_parent"
-                    android:layout_height="351dp"
+                    android:layout_height="350dp"
                     android:background="@drawale/rectangle_blue"
                     android:visibility="visible">
 
@@ -38,7 +38,7 @@
                             android:layout_height="wrap_content"
                             android:layout_centerHorizontal="true"
                             android:layout_centerVertical="true"
-                            android:layout_marginStart="14dp"
+                            android:layout_marginStart="16dp"
                             android:layout_marginEnd="12dp"
                             android:background="@drawable/rectangle_white"
                             android:paddingTop="40dp"
