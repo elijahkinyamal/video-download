@@ -22,7 +22,7 @@
                 <RelativeLayout
                     android:id="@+id/RLTopLayout"
                     android:layout_width="match_parent"
-                    android:layout_height="330dp"
+                    android:layout_height="332dp"
                     android:background="@drawable/rectangle_blue"
                     android:visibility="visible">
                     <RelativeLayout
@@ -30,9 +30,9 @@
                         android:layout_height="wrap_content">
                         <ImageView
                             android:id="@+id/imBack"
-                            android:layout_width="50dp"
-                            android:layout_height="50dp"
-                            android:layout_margin="10dp"
+                            android:layout_width="52dp"
+                            android:layout_height="52dp"
+                            android:layout_margin="11dp"
                             android:padding="5dp"
                             android:layout_centerVertical="true"
                             android:src="@drawable/ic_back" />
