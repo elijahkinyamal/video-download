@@ -11,8 +11,8 @@
         android:orientation="vertical">
 
         <View
-            android:layout_width="40dp"
-            android:layout_height="5dp"
+            android:layout_width="41dp"
+            android:layout_height="6dp"
             android:layout_gravity="center"
             android:background="@drawable/round_button"
             android:layout_marginTop="10dp"
@@ -27,7 +27,7 @@
             android:text="@string/change_lang"
             android:textColor="@color/black"
             android:fontFamily="@font/sans"
-            android:textSize="16sp"
+            android:textSize="17sp"
             android:textStyle="bold" />
 
         <TextView
